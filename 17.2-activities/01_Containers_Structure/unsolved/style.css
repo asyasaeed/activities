@@ -12,6 +12,8 @@
 #pageTopic{
 
     text-align: center;
+    font-size: 14px;
+    font-weight: 900;
 }
 .colorcontainer{
 display: inline-block;
@@ -35,7 +37,24 @@ margin: 15px;
 .type_container{
     display:inline-block;
     margin:20px;
+}
 
+.large{ 
+
+    font-size: 66px;
+    margin-bottom: 15px;
+    margin-top:0;
+}
+
+.light{
+    font-weight: 100px;
+}
+
+.regular{
+    font-weight: 500px;
+}
+.bold{
+    font-weight: 700px;
 }
 
 .button{
