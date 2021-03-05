@@ -69,12 +69,6 @@
   margin-top: 50px;
 }
   
-.imagebox{
-  width:400px;
-  height:100%;
-  display:inline-block;
-
-}
   .txtwrap{
     display: inline-block;
     margin-left: 20px; 
@@ -96,5 +90,12 @@
 
   .corners{
     border-radius: 100px;
+
+  }
+
+.mainimg{
+  width: 400px;
+    float: left;
+    margin-right: 20px;
 }
 
