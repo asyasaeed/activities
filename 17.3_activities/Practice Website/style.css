@@ -4,13 +4,14 @@
   }
  .topnav {
     
-    background-color: lightgrey;
+    background-color: #333230;
     height: 49px;
     
   }
 .menuitem{
     display: inline-block;
-    background-color: #333;
+    background-color: #EBA10E
+    ;
     padding: 15px;
     text-align: center;
     color:white;
@@ -29,23 +30,13 @@
     height:100%;
     width:30%;
     padding:40px;
-    background-color:powderblue;
+    background-color:#C7BFAF;
     text-align: center;
       
   }
 
   .sidetxt{
     text-align: left;
-  }
-
-
-  .maincontent{ 
-    background-color:#F4F7F7;
-    display: inline-block;
-    box-sizing: border-box;
-    padding:40px;
-    height:100%;
-    width:70%;
   }
 
   .side-content1{
@@ -58,6 +49,15 @@
     margin-bottom: 40px;
     
     
+  }
+
+  .maincontent{ 
+    background-color:#F4F7F7;
+    display: inline-block;
+    box-sizing: border-box;
+    padding:40px;
+    height:100%;
+    width:70%;
   }
 
 .content1{
