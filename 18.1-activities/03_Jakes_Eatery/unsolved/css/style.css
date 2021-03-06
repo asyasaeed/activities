@@ -34,11 +34,12 @@ text-decoration: none;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.button{
+button{
     color: black;
     font-size: 16px;
-    padding: 15px;
-    width: 50%;
+    padding: 20px;
+    width: 50%
+    
 }
 
 .right button{
@@ -54,13 +55,14 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 /* Column styles */
 .column{
     display: flex;
+   
     height: 1200px;
     width: 800px;
     flex-direction: column;
-    margin: 0, auto;
+    margin: 0 auto;
 }
 
-.meal1, .meal2. .meal3{
+.meal1, .meal2, .meal3 {
     height: 100%;
     width: 100%;
     display: flex;
@@ -70,23 +72,26 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-position: center;
 }
 
-.meal1{
+.meal1 {
+  
     margin-top: 20px;
     background-image: url("../images/steak.png");
 }
 
-.meal2{
+.meal2 {
+    margin-top: 20px;
     background-image: url("../images/soup.png");
 }
 
-.meal3{
+.meal3 {
+    margin-top: 20px;
     background-image: url("../images/cheesecake.png");
 }
 
-.text{
+.text {
     background: rgb(0,0,0,0.7);
     width: 100%;
-    padding: 20px,40px;
+    padding:  20px 40px;
     color: white;
 }
 
