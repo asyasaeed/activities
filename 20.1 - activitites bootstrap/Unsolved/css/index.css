@@ -10,3 +10,14 @@ footer {
 .card {
 
 }
+
+.form, .signUp{
+  margin: 35px;
+  background-color: #f2f2f2;
+  padding: 25px;
+  border-radius: 7px;
+
+}
+
+
+
